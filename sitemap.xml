@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="https://bestchoice.onrender.com/sitemap.xsl"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
+<url>
+<loc>https://bestchoice.onrender.com/</loc>
+</url>
+<url>
+<loc>https://bestchoice.onrender.com/different-types-of-olive-oil/</loc>
+<lastmod>٢٠٢٣-٠٥-٠٨T١٠:٥٧:٢٦+٠٢:٠٠</lastmod>
+<image:image>
+<image:loc>https://bestchoice.onrender.com/media/posts/2/nwaa-zyt-lzytwn-lmkhtlf-1.jpg</image:loc>
+<image:title><![CDATA[أنواع زيت الزيتون المختلفة]]></image:title>
+</image:image>
+<image:image>
+<image:loc>https://bestchoice.onrender.com/media/posts/2/nwaa-zyt-lzytwn-lmkhtlf-1-2.jpg</image:loc>
+<image:title><![CDATA[]]></image:title>
+</image:image>
+</url>
+<url>
+<loc>https://bestchoice.onrender.com/olive-oil-as-an-antioxidant/</loc>
+<lastmod>٢٠٢٣-٠٣-٢٨T١٢:٢٦:٠٣+٠٢:٠٠</lastmod>
+<image:image>
+<image:loc>https://bestchoice.onrender.com/media/posts/1/zyt-lzytwn1-1.jpg</image:loc>
+<image:title><![CDATA[زيت الزيتون]]></image:title>
+</image:image>
+<image:image>
+<image:loc>https://bestchoice.onrender.com/media/posts/1/zyt-lzytwn-lSly-1.jpg</image:loc>
+<image:title><![CDATA[زيت الزيتون]]></image:title>
+</image:image>
+</url>
+</urlset>
